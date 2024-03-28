@@ -1,0 +1,6 @@
+accelerate 
+bitsandbytes 
+fiftyone 
+datasets 
+lmms-eval
+transformers>=4.39.0
